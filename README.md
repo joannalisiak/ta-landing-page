@@ -1,9 +1,11 @@
-# Landing Page
+# Landing Page Layout
 ## :book: About
-Simple landing page design for your product. The layout consists of: 
+Basic landing page design for your product. The layout consists of: 
 - Banner with a call to aciton
 - How it works section
 - Simple footer
+
+*The page's content refers to [Le Wagon coding bootcamp](https://www.lewagon.com/).*
 ## :monocle_face: Preview
 ![landing page layout](https://user-images.githubusercontent.com/62613184/116443481-00425b00-a854-11eb-804e-7da6bac27370.png)
 ## :rocket: Demo
