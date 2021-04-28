@@ -9,7 +9,7 @@ Simple landing page design for your product. The layout consists of:
 ## :rocket: Demo
 https://joannalisiak.github.io/ta-landing-page/
 ## :hammer_and_wrench: Setup
-If you want to run the website locally:
+If you want to open the page locally:
 1. `git clone git@github.com:joannalisiak/ta-landing-page.git`
 2. `cd ta-landing-page`
 3. `open index.html`
